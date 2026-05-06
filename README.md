@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br>- Name: Vishwajeet Kumar<br>- Education: 3rd year B.Tech, Galgotias University<br>- Skills: Full‑stack development (frontend & backend)<br><br>🚀 Projects<br>- 10 minor projects + 2 major projects<br>- Built an e‑commerce website (focused on frontend)<br>- Currently developing an AI chatbot platform<br><br>📊 Problem-Solving<br>- Solved 150+ DSA problems across coding platforms<br>- Strong analytical & problem‑solving skills<br><br>💼 Experience<br>- Internship as Full‑Stack Developer<br>- Applied technical knowledge in real-world scenarios<br>- Learned effective team collaboration<br><br>🌱 Goals<br>- Eager to learn, contribute, and grow as a developer<br><br><br>
+👨‍💻 About Me<br>- Name: Vishwajeet Kumar<br>- Education: 3rd year B.Tech, Galgotias University<br>- Skills: Full‑stack development (frontend & backend)<br><br>🚀 Projects<br>- 10 minor projects + 5 major projects<br>- AI Interview Agent<br>- Currently developing an LMS  platform<br><br>📊 Problem-Solving<br>- Solved 350+ DSA problems across coding platforms<br>- Strong analytical & problem‑solving skills<br><br>💼 Experience<br>- Internship as Full‑Stack Developer<br>- Applied technical knowledge in real-world scenarios<br>- Learned effective team collaboration<br><br>🌱 Goals<br>- Eager to learn, contribute, and grow as a developer<br><br><br>
 
 
 ## 🌐 Socials:
