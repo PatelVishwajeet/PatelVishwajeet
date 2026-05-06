@@ -15,7 +15,7 @@ I am a motivated developer focused on building scalable, AI-driven web applicati
 ---
 
 ### 🏗 Featured Projects
-*   **AI-Powered LMS Website**[cite: 3]
+*   **AI-Powered LMS Website**
     *   Engineered an AI-driven Learning Management System using **Gemini APIs** for personalized content
     *   Integrated **Razorpay** for monetization and **Redux Toolkit** for optimized state management
 *   **AI Interview Agent**
