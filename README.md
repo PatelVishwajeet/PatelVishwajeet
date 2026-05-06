@@ -1,7 +1,39 @@
-# 💫 About Me:
-👨‍💻 About Me<br>- Name: Vishwajeet Kumar<br>- Education: 3rd year B.Tech, Galgotias University<br>- Skills: Full‑stack development (frontend & backend)<br><br>🚀 Projects<br>- 10 minor projects + 5 major projects<br>- AI Interview Agent<br>- Currently developing an LMS  platform<br><br>📊 Problem-Solving<br>- Solved 350+ DSA problems across coding platforms<br>- Strong analytical & problem‑solving skills<br><br>💼 Experience<br>- Internship as Full‑Stack Developer<br>- Applied technical knowledge in real-world scenarios<br>- Learned effective team collaboration<br><br>🌱 Goals<br>- Eager to learn, contribute, and grow as a developer<br><br><br>
+# 👋 Hi, I'm Vishwajeet Kumar
 
+**Full Stack Developer | AI Enthusiast | Computer Science Undergrad @ Galgotias University**
 
+I am a motivated developer focused on building scalable, AI-driven web applications. Currently, I am deep-diving into the MERN stack and exploring the intersection of web development and Artificial Intelligence.
+
+---
+
+### 🛠 Technical Toolkit
+*   **Languages:** Java, JavaScript, SQL, HTML
+*   **Full Stack:** React.js, Node.js, Express.js, MongoDB
+*   **AI & Cloud:** Google Gemini APIs, Firebase, Google OAuth 2.0[cite: 3]
+*   **Tools:** Redux Toolkit, Tailwind CSS, Framer Motion, Git, GitHub[cite: 3]
+
+---
+
+### 🏗 Featured Projects
+*   **AI-Powered LMS Website**[cite: 3]
+    *   Engineered an AI-driven Learning Management System using **Gemini APIs** for personalized content[cite: 3].
+    *   Integrated **Razorpay** for monetization and **Redux Toolkit** for optimized state management[cite: 3].
+*   **AI Interview Agent**[cite: 3]
+    *   Developed a secure platform using **Firebase Authentication** and **Framer Motion** for polished UI[cite: 3].
+    *   Deployed on **Render** to ensure high availability and scalable hosting[cite: 3].
+
+---
+
+### 🧠 Problem Solving & Professional Experience
+*   **Competitive Programming:** Solved **350+ DSA problems** on LeetCode and GeeksforGeeks[cite: 3].
+*   **Internship:** **Full Stack Development with AI** at EduSkills (Apr 2025 – Jun 2025)[cite: 3].
+*   **Certifications:** Certified in **Data Structures using Java** and **Full Stack with AI** by PW Skills[cite: 3].
+
+---
+
+### 📫 Let's Connect
+*   **Email:** [araj34134@gmail.com](mailto:araj34134@gmail.com)[cite: 3]
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 https://www.linkedin.com/in/vishwajeet-kumar-869897238/
