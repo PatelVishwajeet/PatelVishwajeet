@@ -9,30 +9,30 @@ I am a motivated developer focused on building scalable, AI-driven web applicati
 ### 🛠 Technical Toolkit
 *   **Languages:** Java, JavaScript, SQL, HTML
 *   **Full Stack:** React.js, Node.js, Express.js, MongoDB
-*   **AI & Cloud:** Google Gemini APIs, Firebase, Google OAuth 2.0[cite: 3]
-*   **Tools:** Redux Toolkit, Tailwind CSS, Framer Motion, Git, GitHub[cite: 3]
+*   **AI & Cloud:** Google Gemini APIs, Firebase, Google OAuth 2.0
+*   **Tools:** Redux Toolkit, Tailwind CSS, Framer Motion, Git, GitHub
 
 ---
 
 ### 🏗 Featured Projects
 *   **AI-Powered LMS Website**[cite: 3]
-    *   Engineered an AI-driven Learning Management System using **Gemini APIs** for personalized content[cite: 3].
-    *   Integrated **Razorpay** for monetization and **Redux Toolkit** for optimized state management[cite: 3].
-*   **AI Interview Agent**[cite: 3]
-    *   Developed a secure platform using **Firebase Authentication** and **Framer Motion** for polished UI[cite: 3].
-    *   Deployed on **Render** to ensure high availability and scalable hosting[cite: 3].
+    *   Engineered an AI-driven Learning Management System using **Gemini APIs** for personalized content
+    *   Integrated **Razorpay** for monetization and **Redux Toolkit** for optimized state management
+*   **AI Interview Agent**
+    *   Developed a secure platform using **Firebase Authentication** and **Framer Motion** for polished UI
+    *   Deployed on **Render** to ensure high availability and scalable hosting
 
 ---
 
 ### 🧠 Problem Solving & Professional Experience
-*   **Competitive Programming:** Solved **350+ DSA problems** on LeetCode and GeeksforGeeks[cite: 3].
-*   **Internship:** **Full Stack Development with AI** at EduSkills (Apr 2025 – Jun 2025)[cite: 3].
-*   **Certifications:** Certified in **Data Structures using Java** and **Full Stack with AI** by PW Skills[cite: 3].
+*   **Competitive Programming:** Solved **350+ DSA problems** on LeetCode and GeeksforGeeks
+*   **Internship:** **Full Stack Development with AI** at EduSkills (Apr 2025 – Jun 2025)
+*   **Certifications:** Certified in **Data Structures using Java** and **Full Stack with AI** by PW Skills
 
 ---
 
 ### 📫 Let's Connect
-*   **Email:** [araj34134@gmail.com](mailto:araj34134@gmail.com)[cite: 3]
+*   **Email:** [araj34134@gmail.com](mailto:araj34134@gmail.com)
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
